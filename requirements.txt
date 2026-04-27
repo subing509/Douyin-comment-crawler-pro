@@ -1,0 +1,6 @@
+playwright
+pandas
+openpyxl
+tenacity
+pillow
+beautifulsoup4
